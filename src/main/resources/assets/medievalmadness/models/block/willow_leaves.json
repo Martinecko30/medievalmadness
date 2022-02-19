@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "medievalmadness:block/willow_leaves"
+  }
+}

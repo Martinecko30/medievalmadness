@@ -1,0 +1,17 @@
+{
+  "item.medievalmadness.steel_ingot": "Steel Ingot",
+  "item.medievalmadness.steel_sword": "Steel Sword",
+  "block.medievalmadness.steel_block": "Steel Block",
+  "item.medievalmadness.silver_sword": "Silver Sword",
+  "block.medievalmadness.silver_ore": "Silver Ore",
+  "item.medievalmadness.silver_ingot": "Silver Ingot",
+  "item.medievalmadness.iron_and_coal": "Iron and coal",
+  "block.medievalmadness.willow_sapling": "Willow Tree sapling",
+  "block.medievalmadness.willow_leaves": "Willow Tree leaves",
+  "block.medievalmadness.willow_log": "Willow Tree log",
+  "block.medievalmadness.weed": "Weed",
+  "item.medievalmadness.dried_weed": "Dried Weed",
+  "item.medievalmadness.weed_seeds": "Weed seeds",
+  "itemGroup.medievalmadness": "Medieval Madness"
+
+}

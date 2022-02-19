@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=1": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=2": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=3": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=4": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=5": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=6": {
+      "model": "medievalmadness:block/weed"
+    },
+    "age=7": {
+      "model": "medievalmadness:block/weed"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "medievalmadness:block/willow_log_top",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "medievalmadness:block/willow_log_side"
+    },
+    "axis=z": {
+      "model": "medievalmadness:block/willow_log_top",
+      "x": 90
+    }
+  }
+}
